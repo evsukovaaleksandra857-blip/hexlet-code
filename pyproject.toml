@@ -5,7 +5,7 @@ description = "Brain Games project"
 authors = [{name = "evsuk", email = "evsukovaaleksandra857@gmail.com"}]
 readme = "README.md"
 requires-python = ">=3.10"
-dependencies = []
+dependencies = ["prompt"]
 
 [build-system]
 requires = ["hatchling"]
