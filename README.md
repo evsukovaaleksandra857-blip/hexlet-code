@@ -31,3 +31,8 @@ Brain Games — это набор консольных игр для трени�
 
 [![asciicast](https://asciinema.org/a/DetB0mgrIenfTYc7.svg)](https://asciinema.org/a/DetB0mgrIenfTYc7)
 [![asciicast](https://asciinema.org/a/snr5NgiazUJRdTqB.svg)](https://asciinema.org/a/snr5NgiazUJRdTqB)
+
+## Игра: Простое число
+
+[![asciicast](https://asciinema.org/a/vfIqFIAr18lThjUn.svg)](https://asciinema.org/a/vfIqFIAr18lThjUn)
+[![asciicast](https://asciinema.org/a/6tvavmBOmjCj1G5C.svg)](https://asciinema.org/a/6tvavmBOmjCj1G5C)
