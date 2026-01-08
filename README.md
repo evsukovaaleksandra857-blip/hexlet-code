@@ -21,24 +21,38 @@ Brain Games — это набор консольных игр для разви�
 uv tool install git+https://github.com/evsukovaaleksandra857-blip/hexlet-code
 
 ```
- 
+
+## Игра: Проверка на чётность
+
 ### Победа
 [![asciicast](https://asciinema.org/a/zdwQ4ElHReVJwRau.svg)](https://asciinema.org/a/zdwQ4ElHReVJwRau)
 ### Поражение
 [![asciicast](https://asciinema.org/a/W5yrYBWAU7xfb6Ml.svg)](https://asciinema.org/a/W5yrYBWAU7xfb6Ml)
 
 ## Игра: Калькулятор
+
+### Победа
 [![asciicast](https://asciinema.org/a/2L0VazqVaL56biC0)](https://asciinema.org/a/2L0VazqVaL56biC0)
+### Поражение
 [![asciicast](https://asciinema.org/a/vZ0iMSr3WJ7MdfK4.svg)](https://asciinema.org/a/vZ0iMSr3WJ7MdfK4)
 
 ## Игра: НОД
+
+### Победа
 [![asciicast](https://asciinema.org/a/mLMMkZJ6b1peIcJc.svg)](https://asciinema.org/a/mLMMkZJ6b1peIcJc)
+### Поражение
 [![asciicast](https://asciinema.org/a/Lf4SZwzyMXId9zxe.svg)](https://asciinema.org/a/Lf4SZwzyMXId9zxe)
 
 ## Игра: Арифметическая прогрессия
+
+### Победа
 [![asciicast](https://asciinema.org/a/DetB0mgrIenfTYc7.svg)](https://asciinema.org/a/DetB0mgrIenfTYc7)
+### Поражение
 [![asciicast](https://asciinema.org/a/snr5NgiazUJRdTqB.svg)](https://asciinema.org/a/snr5NgiazUJRdTqB)
 
 ## Игра: Простое число
+
+### Победа
 [![asciicast](https://asciinema.org/a/vfIqFIAr18lThjUn.svg)](https://asciinema.org/a/vfIqFIAr18lThjUn)
+### Поражение
 [![asciicast](https://asciinema.org/a/6tvavmBOmjCj1G5C.svg)](https://asciinema.org/a/6tvavmBOmjCj1G5C)
