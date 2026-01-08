@@ -1,0 +1,20 @@
+import random
+
+
+def gcd(a, b):
+
+    while b != 0:
+        a, b = b, a % b
+    return a
+
+
+def generate_question():
+    """
+    Возвращает (вопрос, правильный_ответ_в_виде_строки).
+    Вопрос — два числа через пробел.
+    """
+    num1 = random.randint(1, 100)
+    num2 = random.randint(1, 100)
+    question = f"{num1} {num2}"
+    correct_answer = str(gcd(num1, num2))
+    return question, correct_answer
