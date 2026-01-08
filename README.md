@@ -16,3 +16,8 @@ Brain Games — это набор консольных игр для трени�
 
 ### Поражение
 [![asciicast](https://asciinema.org/a/W5yrYBWAU7xfb6Ml.svg)](https://asciinema.org/a/W5yrYBWAU7xfb6Ml)
+
+## Игра: Калькулятор
+
+[![asciicast](https://asciinema.org/a/2L0VazqVaL56biC0)](https://asciinema.org/a/2L0VazqVaL56biC0)
+[![asciicast](https://asciinema.org/a/vZ0iMSr3WJ7MdfK4.svg)](https://asciinema.org/a/vZ0iMSr3WJ7MdfK4)
