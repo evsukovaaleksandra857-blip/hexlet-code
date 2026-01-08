@@ -1,5 +1,6 @@
 import random
 
+PROGRESSION_LENGTH = 10
 
 def generate_question():
     start = random.randint(1, 50)
